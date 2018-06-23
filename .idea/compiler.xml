@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AirticketManage" />
+        <module name="bank" />
+        <module name="demo" />
+        <module name="demo1" />
+        <module name="Demo2" />
+        <module name="sqlserver" />
+        <module name="web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="a" target="1.5" />
+      <module name="AirticketManage" target="1.5" />
+      <module name="bank" target="1.5" />
+      <module name="Book" target="1.5" />
+      <module name="demo" target="1.5" />
+      <module name="demo1" target="1.5" />
+      <module name="Demo2" target="1.7" />
+      <module name="peng" target="1.5" />
+      <module name="sqlserver" target="1.5" />
+      <module name="web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
